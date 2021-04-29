@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Stipa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Stipa\\.nuget\\packages"
+    ]
+  }
+}

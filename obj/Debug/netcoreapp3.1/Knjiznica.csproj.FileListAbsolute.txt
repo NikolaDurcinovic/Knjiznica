@@ -1,0 +1,15 @@
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.exe
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.deps.json
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.json
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.dev.json
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csprojAssemblyReference.cache
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.Glavna.resources
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csproj.GenerateResource.cache
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfoInputs.cache
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfo.cs
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Stipa\Desktop\Skolica\Husakovic\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.genruntimeconfig.cache
